@@ -8,7 +8,7 @@ import os
 
 
 def main():
-    """Main function to handle the markdown to html conversion"""
+    #Main function to handle the markdown to html conversion"""
 
     if len(sys.argv) < 3:
         print("Usage: ./markdown2html.py README.md README.html", file=sys.stderr)
